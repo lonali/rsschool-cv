@@ -1,24 +1,25 @@
  
-![CV](https://images.unsplash.com/photo-1502945015378-0e284ca1a5be?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80)
 
-# My first GitHub CV
+# Lola Ib. #
 
-> I have walked a long way to find what I really desire to learn for the rest of my life and it happened to be Web Development.
->> Hello, I am **Lola** and I am glad to see you here. 
+![CV](https://cdn-icons-png.flaticon.com/512/2704/2704234.png)
+
 
 ## Basic Info
-
-**Name:** Lola
-<details><summary>Contact Info: idonttrustmyemailtothis@gmail.com </summary>
-<p>
-I would appreciate if you cotact me by email only. 
-  I am always online. Thank you, friend. ♡  Have a great day now
-</p>
-</details>
+- **Full Name:** Lola 
+- **Address:** planet Earth, Northern hemisphere, the Boring Place
+- **Email:** idonttrustmyemailtothis@gmail.com
+- **Telegram:** 	~~some accurate and true id~~
 
 
 
-## Education
+## Self-Intoduction 
+Agile and adaptable ****** from ****** with analytical mind and background in Digital Marketing.
+I do have a history with CSS, HTML as well as C++, Python and C, mainly from my Computer Engineering degree. However, as it goes for all universities degrees it never is about **_practice_** but rather **_theory_**, thus I could finally fall in love with front end development when I had an internship at start-up company  and it was asked to fix theoir website. I had fun with it for straight 24 h. It was amazing!
+
+
+
+## Education ##
 ***The Web Developer Bootcamp 2022***  
 Udemy, by [Colt Steele]([http://www.google.fr/](https://www.udemy.com/course/the-web-developer-bootcamp/#instructor-1) "Colt Steele") 
 
@@ -29,10 +30,22 @@ Udemy, by [Colt Steele]([http://www.google.fr/](https://www.udemy.com/course/the
  XXXXXXX National University, S.Korea
   
   
+## Code Example ##
+This code was taken from my  [Codewars]([http://www.google.fr/](https://www.codewars.com/) "Codewars")  account.
+ ```
+var validWord = function(dictionary, word) {
+  return new RegExp(`^(?:${dictionary.join('|')})+$`).test(word);
+  return false;
+};
+
+``` 
+  
 ## Languages
+
 | Language | Proficiency |
-| --- | --- |
+| --- | ----------- |
 | `Russian` | Native |
+| `Kazakh` | Native |
 | `English` | C1 |
 | `Korean` | B1 |
 
@@ -45,7 +58,6 @@ Udemy, by [Colt Steele]([http://www.google.fr/](https://www.udemy.com/course/the
 ## Projects 
 ***XXXXX Cosmetic Surgery***  
 2021-2022
-
 
 ***Squat App***  
 2020
