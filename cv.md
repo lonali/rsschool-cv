@@ -5,6 +5,7 @@
 ![CV](https://cdn-icons-png.flaticon.com/512/2704/2704234.png)
 
 
+
 ## Basic Info
 - **Full Name:** Lola 
 - **Address:** planet Earth, Northern hemisphere, the Boring Place
@@ -29,7 +30,8 @@ Udemy, by [Colt Steele]([http://www.google.fr/](https://www.udemy.com/course/the
  ***BS in Social Science***
  XXXXXXX National University, S.Korea
   
-  
+
+
 ## Code Example ##
 This code was taken from my  [Codewars]([http://www.google.fr/](https://www.codewars.com/) "Codewars")  account.
  ```
@@ -39,7 +41,9 @@ var validWord = function(dictionary, word) {
 };
 
 ``` 
-  
+
+
+
 ## Languages
 
 | Language | Proficiency |
@@ -50,9 +54,11 @@ var validWord = function(dictionary, word) {
 | `Korean` | B1 |
 
 
+
 ## Technical Toolbox aka Skills
- * Web Tools: JavaScript, CSS, PHP, HTML, Python, C++, Google Analytics, WordPress
- * Creative Cloud: Photoshop, InDesign, User Experince Design, Interface Design, After Effects, Premiere Pro
+ * **Web Tools:** JavaScript, CSS, PHP, HTML, Python, C++, Google Analytics, WordPress
+ * **Creative Cloud:** Photoshop, InDesign, User Experince Design, Interface Design, After Effects, Premiere Pro
+
 
 
 ## Projects 
@@ -66,3 +72,5 @@ Android based app : not lanched
 ***LearnignApp***  
 2019
 https://github.com/lonali/LearningAppp-master
+
+
